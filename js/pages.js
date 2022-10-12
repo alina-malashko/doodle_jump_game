@@ -32,7 +32,7 @@ const pages = {
                 <p id="reject" class="warning">Name is already taken!</p>
                 <p id="signed" class="warning">Congratulations, you're signed!</p>
                 <p id="password-warning" class="warning">Password should be not less than 6 symbols!</p>
-                <p id="space-warning" class="warning">Forbiden to use space symbol in name or password!</p>
+                <p id="space-warning" class="warning">Forbidden to use space symbol in name or password!</p>
                 <a class="button" id="login">Log in</a>
             </form>
             `;
